@@ -1,9 +1,11 @@
 [package]
 name = "fourier-optics"
 version = "0.1.0"
-description = "A Rust library for Fourier Optics"
+description = "Fourier Optics — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/fourier-optics"
+repository = "https://github.com/SuperInstance/fourier-optics"
 edition = "2021"
+
+keywords = ["fourier-optics"]
 
 [dependencies]
